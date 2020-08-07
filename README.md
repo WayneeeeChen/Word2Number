@@ -12,7 +12,7 @@
 	
 # - 成果：
 	＊ 針對這 12 個品牌
-	![image] (https://github.com/WayneeeeChen/Word2Number/blob/master/Output/brandname.png)
+	![image](https://github.com/WayneeeeChen/Word2Number/blob/master/Output/brandname.png)
 	＊ 共編了13706個號碼
 	![image](https://github.com/WayneeeeChen/Word2Number/blob/master/Output/1.png)
 	＊ 將原檔所有英文字母轉成數字
