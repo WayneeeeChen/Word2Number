@@ -11,9 +11,15 @@
 	3.接著逐行掃檔，若是第一次出現給它新的一個編號；否則找出重複英文單字的編號，並將該 word 改成編號形式。
 	
 # - 成果：
+
 	＊ 針對這 12 個品牌
+	
 ![image](https://github.com/WayneeeeChen/Word2Number/blob/master/images/brandname.png)
+
 	＊ 共編了13706個號碼
+	
 ![image](https://github.com/WayneeeeChen/Word2Number/blob/master/images/1.png)
+
 	＊ 將原檔所有英文字母轉成數字
+	
 ![image](https://github.com/WayneeeeChen/Word2Number/blob/master/images/3.png)
